@@ -2,7 +2,7 @@
 layout: default
 title: Travel and Accomodation Information
 parent: DiO 2024
-nav_order: 3
+nav_order: 2a
 ---
 
 # Travel Information
