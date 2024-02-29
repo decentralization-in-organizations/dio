@@ -8,7 +8,7 @@ nav_order: 1
 
 ![](/asset/cover.jpg)
 
-Welcome to the home page of DiO (Decentralization in Organizations). Here you can find information about our team and events.
+Welcome to the home page of DiO. Here you can find information about our team and events.
 
 ## Organizers
 
