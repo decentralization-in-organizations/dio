@@ -7,7 +7,7 @@ nav_order: 2a
 
 # Travel Information
 
-**Conference venue**: Executive Campus of the University of St.Gallen (google map co-ordinates are N47º26.282, E009º22.586)
+**Conference venue**: [Executive Campus of the University of St.Gallen](https://www.google.com/maps/place/University+of+St.+Gallen,+Executive+School+(ES-HSG)/@47.4378589,9.3761433,15z/data=!4m2!3m1!1s0x0:0xab989b17a806d9d7?sa=X&ved=2ahUKEwje-JXFstCEAxWJVUEAHWoAATsQ_BJ6BAgOEAA) (Google Map co-ordinates are N47º26.282, E009º22.586)
 
 **Nearest Airport**: Zurich Kloten
 
