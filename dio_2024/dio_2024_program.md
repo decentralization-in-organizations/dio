@@ -5,4 +5,8 @@ parent: DiO 2024
 nav_order: 2b
 ---
 
-Information coming soon!
+![DiO 2024](dio_2024_photos/dio_2024_2.png)
+
+# Program Information
+
+More information coming soon!
