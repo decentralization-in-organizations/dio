@@ -4,7 +4,7 @@ theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: dio-community.org
 
 aux_links:
   GitHub Repository: https://github.com/linxule/dio
