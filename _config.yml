@@ -3,7 +3,8 @@ description: Decentralization in Organizations
 theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
-
+logo: "/assets/logo.png"
+favicon_ico: "/assets/logo.png"
 url: dio-community.org
 
 aux_links:
