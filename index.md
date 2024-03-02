@@ -8,27 +8,13 @@ nav_order: 1
 
 ![cover](asset/cover.jpg)
 
-Welcome to the home page of DiO. Here you can find information about our team and events.
+## About Us
 
-## Organizers
+DiO is a community of scholars interested in the study of decentralized forms of organizing: Platform ecosystems, decentralized autonomous organizations (DAOs), and less hierarchical organizations (self-managing or bossless organizations). We facilitate dialogue and knowledge sharing among researchers who study decentralization across levels of analysis and methodologies. Our goal is to spark dialogue and advance common understanding about the concept of decentralization across these streams of research.
 
-- Vivianna Fang He (Uni. St.Gallen)
-- Ying-Ying Hsieh (Imperial College London)
-- Melissa Schilling (NYU)
-- Mike Lee (INSEAD)
-- Phanish Puranam (INSEAD)
+## Anuual DiO Conferences
 
-## Supporting Institutions
+Our annual DiO Conference enables in-depth discussions about the role of decentralization in organizations. Researchers present their current research, exchange insights, and engage in rich discussions about the role of decentalization in contemporary organizational phenomena.
 
-- University of St. Gallen
-- Imperial College London
-- New York University
-- INSEAD
-- [Organizational Design Community (ODC)](https://orgdesigncomm.com/)
-
-
-## Student Rrepresentatives
-
-- Xule Lin (Imperial), 2023 & 2024
-- Phil Reineke (Stanford), 2024
-- Joho Yang & Stefano Benigni, 2023
+- [DiO 2024 at University of St. Gallen](dio_2024/dio_2024.md)
+- [DiO 2023 at Imperial College London](dio_2023/dio_2023.md)
