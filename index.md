@@ -16,5 +16,5 @@ DiO is a community of scholars interested in the study of decentralized forms of
 
 Our annual DiO Conference enables in-depth discussions about the role of decentralization in organizations. Researchers present their current research, exchange insights, and engage in rich discussions about the role of decentalization in contemporary organizational phenomena.
 
-- [DiO 2024 at the University of St. Gallen](dio_2024/dio_2024.md)
-- [DiO 2023 at Imperial College London](dio_2023/dio_2023.md)
+- [DiO 2024 at the University of St. Gallen](/dio_2024/dio_2024.md)
+- [DiO 2023 at Imperial College London](/dio_2023/dio_2023.md)
