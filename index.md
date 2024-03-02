@@ -6,7 +6,7 @@ nav_order: 1
 
 # Decentralization in Organizations (DiO)
 
-![logo](/asset/logo.png)
+![cover](/asset/cover.jpg)
 
 ## About Us
 
