@@ -13,7 +13,7 @@ Welcome to the home page of DiO. Here you can find information about our team an
 ## Organizers
 
 - Vivianna Fang He (Uni. St.Gallen)
-- Ying-Ying Hsieh (Imperial)
+- Ying-Ying Hsieh (Imperial College London)
 - Melissa Schilling (NYU)
 - Mike Lee (INSEAD)
 - Phanish Puranam (INSEAD)
@@ -31,3 +31,4 @@ Welcome to the home page of DiO. Here you can find information about our team an
 
 - Xule Lin (Imperial), 2023 & 2024
 - Phil Reineke (Stanford), 2024
+- Joho Yang & Stefano Benigni, 2023
