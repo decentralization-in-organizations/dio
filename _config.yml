@@ -1,11 +1,17 @@
 title: DiO 
 description: Decentralization in Organizations
 theme: just-the-docs
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-logo: "/asset/logo.png"
-favicon_ico: "/asset/icon.png"
 url: dio-community.org
-
 aux_links:
   GitHub Repository: https://github.com/linxule/dio
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+# Logo and favicon
+logo: "/asset/logo.png"
+favicon_ico: "/asset/icon.png"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
