@@ -6,12 +6,14 @@ nav_order: 1
 
 <!-- # Decentralization in Organizations (DiO) -->
 
-<!-- ![cover](/asset/cover.jpg) -->
+
 ![cover](/asset/logo.png)
 
 ## About Us
 
 DiO is a community of scholars interested in the study of decentralized forms of organizing: Platform ecosystems, decentralized autonomous organizations (DAOs), and less hierarchical organizations (self-managing or bossless organizations). We facilitate dialogue and knowledge sharing among researchers who study decentralization across levels of analysis and methodologies. Our goal is to spark dialogue and advance common understanding about the concept of decentralization across these streams of research.
+
+![cover](/asset/cover.jpg)
 
 ## Annual DiO Conference
 
