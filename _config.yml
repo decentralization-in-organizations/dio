@@ -11,7 +11,7 @@ color_scheme: dark
 
 # Logo and favicon
 logo: "/asset/logo.png"
-favicon_ico: "/asset/icon.png"
+favicon_ico: "/asset/logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
