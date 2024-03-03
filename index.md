@@ -4,9 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-# Decentralization in Organizations (DiO)
+<!-- # Decentralization in Organizations (DiO) -->
 
-![cover](/asset/cover.jpg)
+<!-- ![cover](/asset/cover.jpg) -->
+![cover](/asset/logo.png)
 
 ## About Us
 
