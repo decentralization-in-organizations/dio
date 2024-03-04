@@ -45,7 +45,7 @@ nav_order: 2b
 - 1:30-2:50 PM: Decentralized Innovation
   - Presenter: Ritta Katila, Gurneeta Vasude
 - 2:50-3:10 PM: Coffee Break
-- 3:10-4:30 PM: (Title pending)
+- 3:10-4:30 PM: (Title Pending)
   - Presenter: Linus Dahlander, Helge Klapper
 - 4:30-6:00 PM: Panel on Decentralized Technologies
   - Panelists: Sonali Shah, Paolo Leone, Alex Murray
