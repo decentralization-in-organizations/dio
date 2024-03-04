@@ -9,9 +9,9 @@ nav_order: 3c
 
 # Recap: “What does decentralization mean in organizations? 
 
+[Placeholder for the recap of DiO 2023.]
 
-
-Here are some photos from DiO 2023:
+## Photos from DiO 2023
 
 ![DiO 2023](dio_2023_photos/dio_2023_1.jpg)
 ![DiO 2023](dio_2023_photos/dio_2023_2.jpg)
