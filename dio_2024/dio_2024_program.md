@@ -30,7 +30,7 @@ nav_order: 2b
 - 4:40-5:40 PM: Special Session: Data & Opportunities for Decentralization Research
   - Presenters: Ying-Ying Hsieh, John Eklund
 - 5:40-6:00 PM: Break
-- 6:00-7:00 PM: Community as your sounding board: Slideless 4-5 Pitches
+- 6:00-7:00 PM: Community as Your Sounding Board: Slideless 4-5 Pitches
 - 7:00 PM: Reception & Keynote by Kathy Eisenhardt
 
 ## Tuesday, June 18
