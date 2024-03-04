@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program Information
+title: 2024 Program Information
 parent: DiO 2024
 nav_order: 2b
 ---
