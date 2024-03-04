@@ -56,4 +56,4 @@ All times displayed in London Time (GMT+1)
   - **Panelists:** Carliss Baldwin, Siobhan O’Mahony, Phanish Puranam, Sonali Shah
 - **5:30-6:00PM:** Debrief and Conclusion
   - **Organizers:** Ying-Ying Hsieh, Mike Lee, Phanish Puranam, PK Toh
-- **6:00-8:00PM:** Reception (Sponsored by Organization Design Community) at Ognisko
+- **6:00-8:00PM:** Reception **(Sponsored by Organization Design Community)** at Ognisko

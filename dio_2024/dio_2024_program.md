@@ -51,4 +51,4 @@ nav_order: 2b
   - **Panelists:** Sonali Shah, Paolo Leone, Alex Murray
 - **6:00-6:30 PM:** Reflection and Looking Forward
 - **6:30-7:00 PM:** Break
-- **7:00-9:30 PM:** Dinner at Restaurant Sauceria (Getting to know Organization Design Community)
+- **7:00-9:30 PM:** Dinner at Restaurant Sauceria **(Sponsored by Organization Design Community)**
