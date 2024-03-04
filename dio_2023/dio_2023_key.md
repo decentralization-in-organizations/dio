@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2023 Program Information
+title: 2023 Recap
 parent: DiO 2023
 nav_order: 3c
 ---
