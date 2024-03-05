@@ -1,11 +1,8 @@
 // Custom logo size adjustments
 .site-logo {
-    display: inline-block; // Ensures the div can resize according to its content
-    max-width: 200px; // Set your desired maximum width here
-    height: auto; // Allows the height to adjust automatically
-    background-size: contain; // Ensures the logo fits within the container without distortion
-    background-repeat: no-repeat;
-    background-position: center; // Centers the logo within the div
+    max-width: 200px; // Set the maximum width of your logo
+    height: auto; // Ensure the height adjusts automatically
+    background-size: contain; // Ensure the logo scales correctly
+    background-repeat: no-repeat; // Logo should not repeat
+    background-position: center center; // Center the logo within the div
   }
-  
-
