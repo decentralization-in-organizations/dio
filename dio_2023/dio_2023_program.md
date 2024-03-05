@@ -5,7 +5,7 @@ parent: DiO 2023
 nav_order: 3b
 ---
 
-![cover](/asset/logo.png)
+![DiO 2023](dio_2023_photos/dio_2023_icbs.png)
 
 # Program Information
 
