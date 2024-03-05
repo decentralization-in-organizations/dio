@@ -18,6 +18,5 @@ nav_order: 3c
 ![DiO 2023](dio_2023_photos/dio_2023_3.jpg)
 ![DiO 2023](dio_2023_photos/dio_2023_4.jpg)
 ![DiO 2023](dio_2023_photos/dio_2023_5.jpg)
-![DiO 2023](dio_2023_photos/dio_2023_6.jpg)
 ![DiO 2023](dio_2023_photos/dio_2023_7.jpg)
 ![DiO 2023](dio_2023_photos/dio_2023_8.jpg)
