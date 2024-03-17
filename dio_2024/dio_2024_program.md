@@ -7,7 +7,7 @@ nav_order: 2b
 
 # Program Information (Tentative)
 
-![DiO 2024](dio_2024_photos/dio_2024_1.jpg)
+![DiO 2024](dio_2024_photos/dio_2024_1.jpeg)
 
 ## Monday, June 17
 
