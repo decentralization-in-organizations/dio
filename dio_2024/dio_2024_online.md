@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Online Participation Registration
+title: 2024 Online Participation
 parent: DiO 2024
 nav_order: 2d
 ---
