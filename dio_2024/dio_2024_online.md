@@ -2,7 +2,7 @@
 layout: default
 title: 2024 Online Participation
 parent: DiO 2024
-nav_order: 2d
+nav_order: 4
 ---
 
 # Online Participation at DiO 2024

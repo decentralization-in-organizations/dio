@@ -2,7 +2,7 @@
 layout: default
 title: 2024 Program Information
 parent: DiO 2024
-nav_order: 2b
+nav_order: 1
 ---
 
 # Program Information (Tentative)
