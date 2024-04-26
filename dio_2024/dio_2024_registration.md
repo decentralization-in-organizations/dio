@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 In Person Participation
+title: 2024 Event Registration
 parent: DiO 2024
 nav_order: 3
 ---
