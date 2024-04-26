@@ -7,7 +7,9 @@ nav_order: 2c
 
 # Online Participation
 
-<iframe width="640px" height="480px" src="https://forms.office.com/e/hdTVJgMNYf?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="https://forms.office.com/e/hdTVJgMNYf?embed=true" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+</div>
 
 # In Person Participation 
 
