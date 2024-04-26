@@ -13,4 +13,6 @@ nav_order: 2c
 
 # In Person Participation 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCQdq7m0o6Rlti__OUWMxWXy6mTNP0OCTtaD8RJnGVwcAnUQ/viewform?embedded=true" width="640" height="1740" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCQdq7m0o6Rlti__OUWMxWXy6mTNP0OCTtaD8RJnGVwcAnUQ/viewform?embedded=true" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
