@@ -85,4 +85,4 @@ nav_order: 1
   - Location: [Restaurant Sauceria](https://www.sauceria.ch/)
 
 
-[Download the program information in PDF](https://github.com/linxule/dio/asset/DiO_Conference_Program_2024.pdf)
+[Download the program information in PDF](/asset/DiO_Conference_Program_2024.pdf)
