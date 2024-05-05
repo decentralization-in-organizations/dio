@@ -81,5 +81,15 @@ nav_order: 1
 - **7:00-9:30 PM** - **Dinner**  
   - Location: [Restaurant Sauceria](https://www.sauceria.ch/)
 
-
 [Download the program information in PDF](/asset/DiO_Conference_Program_2024.pdf)
+
+## Contact Information
+
+- Vivianna Fang He
+  - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
+- Xule Lin
+  - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
+- Philipp Reineke
+  - Email: [preineke@stanford.edu](mailto:preineke@stanford.edu)
+- Matthias Tröbinger
+  - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
