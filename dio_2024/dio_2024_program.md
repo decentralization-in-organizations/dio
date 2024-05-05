@@ -85,8 +85,11 @@ nav_order: 1
 
 ## Contact Information
 
+### Organizers
 - Vivianna Fang He
   - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
+
+### Online Moderation
 - Xule Lin
   - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
 - Philipp Reineke
