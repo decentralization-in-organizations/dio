@@ -22,7 +22,7 @@ nav_order: 1
 - **8:00-9:00 AM** - **Breakfast & Registration**
 - **9:00-9:10 AM** - **Welcome and Introduction**
   - ***Organizers*** & President of University of St. Gallen, ***Manuel Ammann***
-- **9:10-10:30 AM** - **The human side of decentralizatio**
+- **9:10-10:30 AM** - **The human side of decentralization**
   - **Paper Session**
     - Presenter: ***Bex Hewett***, *"Decentralization and high employee involvement: a configurational perspective"*
     - Presenter: **Mike Lee**, *"Is decentralization better for everyone? Investigating employee characteristics that drive preferences for working in decentralized structures"*
