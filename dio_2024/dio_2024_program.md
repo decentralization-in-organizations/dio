@@ -5,19 +5,16 @@ parent: DiO 2024
 nav_order: 1
 ---
 
-# Program Information (Tentative)
+# Decentralization in Organizations (DiO) Conference 2024 – Program Information
 
 ![DiO 2024](dio_2024_photos/dio_2024_1.jpeg)
 
-# Decentralization in Organizations (DiO) Conference 2024
 
 **Date:** June 17-18, 2024  
 **Location:** University of St. Gallen Executive Campus, Holzstrasse 15, 9010 St.Gallen  
 **All times displayed in Central Europe Time**
 
-## Program
-
-### Monday, June 17
+## Monday, June 17
 
 - **8:00-9:00 AM** - **Breakfast & Registration**
 - **9:00-9:10 AM** - **Welcome and Introduction**
@@ -50,7 +47,7 @@ nav_order: 1
 - **7:00 PM** - **Reception & Keynote by Kathy Eisenhardt**
   - Location: Central Terrace, Executive Campus
 
-### Tuesday, June 18
+## Tuesday, June 18
 
 - **8:30-9:00 AM** - **Breakfast & Registration**
 - **9:00-10:20 AM** - **Blockchains: Meaning & Functionality**
