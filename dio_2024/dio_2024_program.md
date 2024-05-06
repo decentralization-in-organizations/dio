@@ -89,8 +89,11 @@ nav_order: 1
 - Vivianna Fang He
   - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
 - Ying-Ying Hsieh
+  - Email: [y.hsieh@imperial.ac.uk](mailto:y.hsieh@imperial.ac.uk)
 - Mike Lee
+  - Email: [mike.lee@insead.edu](mailto:mike.lee@insead.edu)
 - Melissa Schilling
+  - Email: [mas28@stern.nyu.edu](mailto:mas28@stern.nyu.edu)
 
 ### Online Moderation
 - Matthias Tröbinger
