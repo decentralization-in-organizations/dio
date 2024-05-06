@@ -88,11 +88,14 @@ nav_order: 1
 ### Organizers
 - Vivianna Fang He
   - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
+- Ying-Ying Hsieh
+- Mike Lee
+- Melissa Schilling
 
 ### Online Moderation
+- Matthias Tröbinger
+  - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
 - Xule Lin
   - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
 - Philipp Reineke
   - Email: [preineke@stanford.edu](mailto:preineke@stanford.edu)
-- Matthias Tröbinger
-  - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
