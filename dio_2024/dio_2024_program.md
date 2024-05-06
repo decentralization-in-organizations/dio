@@ -95,7 +95,7 @@ nav_order: 1
 - Melissa Schilling
   - Email: [mas28@stern.nyu.edu](mailto:mas28@stern.nyu.edu)
 
-### Online Moderation
+### Online Moderation Team
 - Matthias Tröbinger
   - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
 - Xule Lin
