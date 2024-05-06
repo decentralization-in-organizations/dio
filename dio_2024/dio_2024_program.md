@@ -69,7 +69,7 @@ nav_order: 1
 - **3:10-4:30 PM** - **Decentralized Governance**  
   - **Paper Session**
     - Presenter: **Katherine Chen**, *"Rapid growth as a threat to community governance? A case of Kodomo Shokudo in Japan"*
-    - Presenter: **Gurneeta Vasude**, *"Governance of data resources and market valuation"*
+    - Presenter: **Gurneeta Vasudeva Singh**, *"Governance of data resources and market valuation"*
     - Discussant: **Carliss Baldwin**
 - **4:30-5:30 PM** - **Decentralization and grand challenges**
   - **Panel Session**
