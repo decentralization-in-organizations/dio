@@ -86,6 +86,7 @@ nav_order: 1
 ## Contact Information
 
 ### Organizers
+
 - Vivianna Fang He
   - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
 - Ying-Ying Hsieh
@@ -96,9 +97,10 @@ nav_order: 1
   - Email: [mas28@stern.nyu.edu](mailto:mas28@stern.nyu.edu)
 
 ### Online Moderation Team
-- Matthias Tröbinger
-  - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
+
 - Xule Lin
   - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
 - Philipp Reineke
   - Email: [preineke@stanford.edu](mailto:preineke@stanford.edu)
+- Matthias Tröbinger
+  - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
