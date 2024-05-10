@@ -87,20 +87,20 @@ nav_order: 1
 
 ### Organizers
 
-- Vivianna Fang He
+- [Vivianna Fang He](https://www.viviannafanghe.com/)
   - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
-- Ying-Ying Hsieh
+- [Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)
   - Email: [y.hsieh@imperial.ac.uk](mailto:y.hsieh@imperial.ac.uk)
-- Mike Lee
+- [Mike Lee](https://www.michaelylee.co/bio)
   - Email: [mike.lee@insead.edu](mailto:mike.lee@insead.edu)
-- Melissa Schilling
+- [Melissa Schilling](https://www.stern.nyu.edu/faculty/bio/melissa-schilling)
   - Email: [mas28@stern.nyu.edu](mailto:mas28@stern.nyu.edu)
 
 ### Online Moderation Team
 
-- Xule Lin
+- [Xule Lin](https://www.linxule.com)
   - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
-- Philipp Reineke
+- [Philipp Reineke(https://profiles.stanford.edu/philipp-reineke)]
   - Email: [preineke@stanford.edu](mailto:preineke@stanford.edu)
-- Matthias Tröbinger
+- [Matthias Tröbinger](https://www.matthiastroebinger.com/)
   - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
