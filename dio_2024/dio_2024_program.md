@@ -100,7 +100,7 @@ nav_order: 1
 
 - [Xule Lin](https://www.linxule.com)
   - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
-- [Philipp Reineke(https://profiles.stanford.edu/philipp-reineke)]
+- [Philipp Reineke](https://profiles.stanford.edu/philipp-reineke)
   - Email: [preineke@stanford.edu](mailto:preineke@stanford.edu)
 - [Matthias Tröbinger](https://www.matthiastroebinger.com/)
   - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
