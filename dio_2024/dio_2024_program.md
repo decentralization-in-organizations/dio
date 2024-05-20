@@ -81,7 +81,28 @@ nav_order: 1
 - **7:00-9:30 PM** - **Dinner**  
   - Location: [Restaurant Sauceria](https://www.sauceria.ch/)
 
-[Download the program information in PDF](/asset/DiO_Conference_Program_2024.pdf)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Embed Google Doc</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+        }
+        iframe {
+            width: 100%;
+            height: 100vh;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://docs.google.com/document/d/1epuN1_VkwrLF6CtmAsBKBFCSU3A-PrDifIXiyvE5uJY/preview"></iframe>
+</body>
+</html>
 
 ## Contact Information
 
