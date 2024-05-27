@@ -11,7 +11,7 @@ nav_order: 1
 
 For the most up-to-date information about the program, please refer to the document below. You can also [click here](https://docs.google.com/document/d/1epuN1_VkwrLF6CtmAsBKBFCSU3A-PrDifIXiyvE5uJY/edit?usp=sharing) to open the document in a new tab for easier viewing, downloading, or printing.
 
-> **Note:** Please note that all times shown are in Central European Time (CET, UTC+2).
+> **Note:** Please note that all times shown are in Central European Summer Time (CEST, UTC+2).
 
 <html>
 <head>
