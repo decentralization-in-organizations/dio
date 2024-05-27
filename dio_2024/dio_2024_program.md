@@ -9,6 +9,8 @@ nav_order: 1
 
 ![DiO 2024](dio_2024_photos/dio_2024_1.jpeg)
 
+All time displayed are Central European Time (CET, GMT +02:00).
+
 <html>
 <head>
     <title>Embed Google Doc</title>
