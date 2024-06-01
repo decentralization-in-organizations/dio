@@ -11,29 +11,247 @@ nav_order: 1
 
 For the most up-to-date information about the program, please refer to the document below. You can also [click here](https://docs.google.com/document/d/1epuN1_VkwrLF6CtmAsBKBFCSU3A-PrDifIXiyvE5uJY/edit?usp=sharing) to open the document in a new tab for easier viewing, downloading, or printing.
 
-> **Note:** Please note that all times shown are in Central European Summer Time (CEST, UTC+2).
+# DiO Conference Program 2024
 
-<html>
-<head>
-    <title>Embed Google Doc</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            width: 100%;
-        }
-        iframe {
-            width: 100%;
-            height: 100vh;
-            border: none;
-        }
-    </style>
-</head>
-<body>
-    <iframe src="https://docs.google.com/document/d/1epuN1_VkwrLF6CtmAsBKBFCSU3A-PrDifIXiyvE5uJY/preview"></iframe>
-</body>
-</html>
+_All times displayed are Central European Summer Time (CEST, UTC +2)._
+
+## Monday, June 17
+
+---
+
+### 8:00-9:00 AM
+
+**Breakfast & Registration**
+
+---
+
+### 9:00-9:10 AM
+
+**Welcome and Introduction**
+
+**Organizers & President of University of St. Gallen:** ***Manuel Ammann***
+
+---
+
+### 9:10-10:30 AM
+
+**Blockchains: Meaning & Functionality**
+
+(Paper Session)
+
+**Presenter:** ***Semi Min***
+
+*'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
+
+**Presenter:** ***Brian Wu***
+
+*'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
+
+**Discussant:** ***Phanish Puranam***
+
+---
+
+### 10:30-10:50 AM
+
+**Coffee Break**
+
+---
+
+### 10:50-12:30 PM
+
+**Prospects for Platforms**
+
+(Panel Session)
+
+**Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
+
+---
+
+### 12:30-2:00 PM
+
+**Lunch**
+
+---
+
+### 2:00-3:20 PM
+
+**The Human Side of Decentralization**
+
+(Paper Session)
+
+**Presenter:** ***Bex Hewett***
+
+*'Decentralization and High Employee Involvement: A Configurational Perspective'*
+
+**Presenter:** ***Mike Lee***
+
+*'Is Decentralization Better for Everyone? Investigating Employee Characteristics that Drive Preferences for Decentralized Structures'*
+
+**Discussant:** ***Markus Reizig***
+
+---
+
+### 3:20-3:40 PM
+
+**Coffee Break**
+
+---
+
+### 3:40-5:00 PM
+
+**Opportunities for Decentralization Research**
+
+(Special Session)
+
+**Presenter:** ***John Eklund***
+
+*'A New Organizational Structure Database: Examining Structure through Top Management Team Compositions'*
+
+**Presenter:** ***Ying-Ying Hsieh***
+
+*'A Deeper Look at DAOs: Introducing the DREAM Project'*
+
+**Discussant:** ***Tobias Krestchmer***
+
+---
+
+### 5:00-6:00 PM
+
+**Decentralized Feedback: The Community as Your Sounding Board**
+
+**MC:** ***Oliver Alexy***
+
+**Pitch Presenters:** ***Xule Lin, Philipp Reineke, Charlie Williams***
+
+---
+
+### 7:00 PM
+
+**Reception:** Central Terrace, Executive Campus
+
+---
+
+## Tuesday, June 18
+
+---
+
+### 8:30-9:00 AM
+
+**Breakfast & Registration**
+
+---
+
+### 9:00-10:20 AM
+
+**Tradeoffs in Decentralization**
+
+(Paper Session)
+
+**Presenter:** ***Helge Klapper***
+
+*'Decentralized Organizational Structure and Misalignment in DAOs'*
+
+**Presenter:** ***Vivianna Fang He***
+
+*'Balancing Convergence and Deliberation in Decentralized Consensus Formation'*
+
+**Discussant:** ***Charlie Williams***
+
+---
+
+### 10:20-10:40 AM
+
+**Coffee Break**
+
+---
+
+### 10:40-12:00 PM
+
+**Decentralized Design and Governance**
+
+(Paper Session)
+
+**Presenter:** ***Linus Dahlander***
+
+*'Organizational Design in the Age of AI'*
+
+**Presenter:** ***Gurneeta Vasudera Singh***
+
+*'Governance of Data Resources and Market Valuation'*
+
+**Discussant:** ***Carliss Baldwin***
+
+---
+
+### 12:00-1:30 PM
+
+**Lunch**
+
+---
+
+### 1:30-2:50 PM
+
+**Democratizing Organizations**
+
+(Paper Session)
+
+**Presenter:** ***Trevor Young-Hyman***
+
+*'Decentralized Governance Rights'*
+
+**Presenter:** ***Felipe Massa***
+
+*'Fostering Dignity at Scale: Jaipur Rugs and the Reflexive Management of Artisanal Craftwork'*
+
+**Discussant:** ***Martin Kornberger***
+
+---
+
+### 2:50-3:10 PM
+
+**Coffee Break**
+
+---
+
+### 3:10-4:30 PM
+
+**Technology & Decentralization**
+
+(Panel Session)
+
+**Panelists:** ***Sonali Shah (lead), Paolo Leone, & Alex Murray***
+
+---
+
+### 4:30-5:50 PM
+
+**Decentralization for Good?**
+
+(Paper Session)
+
+**Presenter:** ***Katherine Chen***
+
+*'Rapid Growth as a Threat to Community Governance? A Case of Kodomo Shokudo in Japan'*
+
+**Presenter:** ***Paul Adler***
+
+*'Oligarchy, Localism, Authoritarianism or Democratization? A Neo-Schumpeterian Perspective on Alternative Responses to the Climate Crisis'*
+
+**Discussant:** ***Johanna Mair***
+
+---
+
+### 5:50-6:10 PM
+
+**Reflection and Outlook**
+
+---
+
+### 7:10-10:00 PM
+
+**Dinner:** Restaurant Sauceria
+
+---
 
 ## Contact Information
 
