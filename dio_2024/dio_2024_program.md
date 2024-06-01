@@ -249,7 +249,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ### 7:10-10:00 PM
 
-**Dinner:** Restaurant Sauceria
+**Dinner:** [Restaurant Sauceria](https://www.sauceria.ch/)
 
 ---
 
