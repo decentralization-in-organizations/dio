@@ -235,7 +235,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Paul Adler***
 
-*'Oligarchy, Localism, Authoritarianism or Democratization? A Neo-Schumpeterian Perspective on Alternative Responses to the Climate Crisis'*
+*'The Climate Crisis and the Democratic-Transformative State: New Directions for Management Research'*
 
 **Discussant:** ***Johanna Mair***
 
