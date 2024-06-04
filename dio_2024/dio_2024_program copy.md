@@ -64,9 +64,9 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ---
 
 ### 10:50-12:30 PM
-
-**Prospects for Platforms**<br/>
 (Panel Session)
+
+**Prospects for Platforms**
 {: .float-right .d-inline-block}
 
 **Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
