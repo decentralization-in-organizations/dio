@@ -31,7 +31,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .float-right .d-inline-block}
 
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
-{: .d-block}
+{: .d-inline-block}
 
 
 ### 9:10-10:30 AM
@@ -40,7 +40,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .float-right}
 
 **Presenter:** ***Semi Min***, *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
-{: .d-block}
+{: .d-inline-block}
 
 **Presenter:** ***Brian Wu***, *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
 {: .d-block}
