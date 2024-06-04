@@ -23,7 +23,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ### 8:00-9:00 AM
 
 **Breakfast & Registration**
-{: .float-right}
+{: .float-right .d-inline-block}
 
 ### 9:00-9:10 AM
 
@@ -57,7 +57,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ### 10:50-12:30 PM
 
 **Prospects for Platforms (Panel Session)**
-{: .float-right}
+{: .float-right .d-inline-block}
 
 **Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
 
