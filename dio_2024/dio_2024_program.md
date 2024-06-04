@@ -36,7 +36,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ---
 
 ## 9:10-10:30 AM
-{: .fw-300 }
+{: .fw-300 .mb-1}
 
 ## **Blockchains: Meaning & Functionality**
 
