@@ -15,17 +15,19 @@ For the most up-to-date information about the program, please refer to the docum
 
 _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
-## Monday, June 17
+# Monday, June 17
 
 ---
 
-### 8:00-9:00 AM
+## 8:00-9:00 AM
+{: .fw-300 }
 
 **Breakfast & Registration**
 
 ---
 
-### 9:00-9:10 AM
+## 9:00-9:10 AM
+{: .fw-300 }
 
 **Welcome and Introduction**
 
@@ -33,7 +35,8 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-### 9:10-10:30 AM
+## 9:10-10:30 AM
+{: .fw-200 }
 
 **Blockchains: Meaning & Functionality**
 
