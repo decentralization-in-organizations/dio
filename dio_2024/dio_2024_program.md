@@ -22,23 +22,23 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ## 8:00-9:00 AM
 {: .fw-300 }
 
-**Breakfast & Registration**
+### **Breakfast & Registration**
 
 ---
 
 ## 9:00-9:10 AM
 {: .fw-300 }
 
-**Welcome and Introduction**
+### **Welcome and Introduction**
 
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
 
 ---
 
 ## 9:10-10:30 AM
-{: .fw-200 }
+{: .fw-300 }
 
-**Blockchains: Meaning & Functionality**
+### **Blockchains: Meaning & Functionality**
 
 (Paper Session)
 
@@ -56,13 +56,13 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ### 10:30-10:50 AM
 
-**Coffee Break**
+### **Coffee Break**
 
 ---
 
 ### 10:50-12:30 PM
 
-**Prospects for Platforms**
+### **Prospects for Platforms**
 
 (Panel Session)
 
