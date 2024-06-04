@@ -15,12 +15,7 @@ For the most up-to-date information about the program, please refer to the docum
 
 _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
-<details>
-<summary>
-
 ## Monday, June 17
-
-</summary>
 
 ---
 
@@ -136,14 +131,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-</details>
-
-<details>
-<summary>
-
 ## Tuesday, June 18
-
-</summary>
 
 ---
 
@@ -265,15 +253,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-</details>
-
-
-<details>
-<summary>
-
 ## Contact Information
-
-</summary>
 
 ### Organizers
 
@@ -294,5 +274,3 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
   - Email: [preineke@stanford.edu](mailto:preineke@stanford.edu)
 - [Matthias Tröbinger](https://www.matthiastroebinger.com/)
   - Email: [matthias.troebinger@unisg.ch](mailto:matthias.troebinger@unisg.ch)
-
-</details>
