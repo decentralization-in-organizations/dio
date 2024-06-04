@@ -299,9 +299,9 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-## Contact Information
+# Contact Information
 
-### Organizers
+## Organizers
 
 - [Vivianna Fang He](https://www.viviannafanghe.com/)
   - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
@@ -312,7 +312,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 - [Melissa Schilling](https://www.stern.nyu.edu/faculty/bio/melissa-schilling)
   - Email: [mas28@stern.nyu.edu](mailto:mas28@stern.nyu.edu)
 
-### Online Moderation Team
+## Online Moderation Team
 
 - [Xule Lin](https://www.linxule.com)
   - Email: [xule.lin@imperial.ac.uk](mailto:xule.lin@imperial.ac.uk)
