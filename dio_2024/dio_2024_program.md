@@ -87,7 +87,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 *'Is Decentralization Better for Everyone? Investigating Employee Characteristics that Drive Preferences for Decentralized Structures'*
 
-**Discussant:** ***Markus Reizig***
+**Discussant:** ***Markus Reitzig***
 
 ---
 
@@ -111,7 +111,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 *'A Deeper Look at DAOs: Introducing the DREAM Project'*
 
-**Discussant:** ***Tobias Krestchmer***
+**Discussant:** ***Tobias Kretschmer***
 
 ---
 
@@ -149,7 +149,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Helge Klapper***
 
-*'Decentralized Organizational Structure and Misalignment in DAOs'*
+*'How to Limit the Negative Effects of Misalignment: The Case of Decision Structures in Decentralized Autonomous Organizations'*
 
 **Presenter:** ***Vivianna Fang He***
 
@@ -173,7 +173,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Linus Dahlander***
 
-*'Organizational Design in the Age of AI'*
+*'Selection Regimes and Selection Errors'*
 
 **Presenter:** ***Gurneeta Vasudera Singh***
 
@@ -197,7 +197,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Trevor Young-Hyman***
 
-*'Decentralized Governance Rights'*
+*'Demanding but Committed: The Organizational Consequences of Broadening Stakeholder Governance'*
 
 **Presenter:** ***Felipe Massa***
 
@@ -231,7 +231,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Katherine Chen***
 
-*'Rapid Growth as a Threat to Community Governance? A Case of Kodomo Shokudo in Japan'*
+*'Expanding Model Cases: How Do Groups Develop Relational, Emergent, Transformative, and Change-Oriented Organizations (RETCOs)?'*
 
 **Presenter:** ***Paul Adler***
 
