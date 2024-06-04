@@ -21,32 +21,31 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ---
 
 ### 8:00-9:00 AM
+{: .text-right}
 
 **Breakfast & Registration**
-{: .text-right}
+
 
 ### 9:00-9:10 AM
+{: .text-right}
 
 **Welcome and Introduction**
-{: .text-right}
+
 
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
-{: .text-right}
+
 
 
 ### 9:10-10:30 AM
-
-**Blockchains: Meaning & Functionality (Paper Session)**
 {: .text-right}
 
+**Blockchains: Meaning & Functionality (Paper Session)**
+
 **Presenter:** ***Semi Min***, *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
-{: .d-inline-block .pl-6}
 
 **Presenter:** ***Brian Wu***, *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
-{: .d-block .pl-6}
 
 **Discussant:** ***Phanish Puranam***
-{: .d-block .pl-6}
 
 ---
 
