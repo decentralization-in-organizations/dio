@@ -45,8 +45,10 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 **Presenter:** ***Semi Min***
 
 *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
+<br/>
 
 **Presenter:** ***Brian Wu***
+{:.mb-1}
 
 *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
 
@@ -54,13 +56,15 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-### 10:30-10:50 AM
+## 10:30-10:50 AM
+{: .fw-300 }
 
 ### **Coffee Break**
 
 ---
 
-### 10:50-12:30 PM
+## 10:50-12:30 PM
+{: .fw-300 }
 
 ### **Prospects for Platforms**
 
