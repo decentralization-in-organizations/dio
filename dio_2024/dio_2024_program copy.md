@@ -25,8 +25,6 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 **Breakfast & Registration**
 {: .float-right}
 
----
-
 ### 9:00-9:10 AM
 {: .d-inline-block}
 
@@ -36,9 +34,6 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
 {: .float-right .d-inline-block}
 
-
----
-
 ### 9:10-10:30 AM
 
 **Blockchains: Meaning & Functionality**
@@ -47,10 +42,10 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 (Paper Session)
 
 **Presenter:** ***Semi Min***
-
+{: .d-inline-block}
 
 *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
-{: .float-right}
+{: .float-right .d-inline-block}
 
 **Presenter:** ***Brian Wu***
 
@@ -72,13 +67,11 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .d-inline-block }
 
 **Prospects for Platforms**
+(Panel Session)
 {: .float-right .d-inline-block}
 
-(Panel Session)
-{: .d-inline-block }
-
 **Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
-{: .d-inline-block }
+{: .float-right .d-inline-block}
 
 ---
 
