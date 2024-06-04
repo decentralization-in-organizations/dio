@@ -41,12 +41,9 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Semi Min***, *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
 
-
 **Presenter:** ***Brian Wu***, *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
 
-
 **Discussant:** ***Phanish Puranam***
-
 
 ---
 
@@ -58,13 +55,11 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ---
 
 ### 10:50-12:30 PM
-(Panel Session)
 
-**Prospects for Platforms**
-{: .float-right .d-inline-block}
+**Prospects for Platforms (Panel Session)**
+{: .float-right}
 
 **Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
-{: .float-right .d-inline-block}
 
 ---
 
