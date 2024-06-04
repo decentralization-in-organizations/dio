@@ -39,6 +39,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .float-right}
 
 (Paper Session)
+{: .float-right}
 
 **Presenter:** ***Semi Min***
 {: .d-inline-block}
@@ -49,9 +50,10 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 **Presenter:** ***Brian Wu***
 
 *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
-{: .float-right}
+{: .float-right .d-inline-block}
 
 **Discussant:** ***Phanish Puranam***
+{: .d-inline-block}
 
 ---
 
