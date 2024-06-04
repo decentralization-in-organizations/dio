@@ -22,14 +22,16 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ## 8:00-9:00 AM
 {: .fw-300 }
 
-### **Breakfast & Registration**
+## **Breakfast & Registration**
+{: .mt-1}
 
 ---
 
 ## 9:00-9:10 AM
 {: .fw-300 }
 
-### **Welcome and Introduction**
+## **Welcome and Introduction**
+{: .mt-1}
 
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
 
@@ -47,12 +49,11 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
 
-**Presenter:** ***Brian Wu***
-{: .mb-1}
+### **Presenter:** ***Brian Wu***
 
 *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
 
-**Discussant:** ***Phanish Puranam***
+### **Discussant:** ***Phanish Puranam***
 
 ---
 
@@ -60,205 +61,241 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .fw-300 }
 
 ### **Coffee Break**
+{: .mt-1}
 
 ---
 
 ## 10:50-12:30 PM
 {: .fw-300 }
 
-### **Prospects for Platforms**
+## **Prospects for Platforms**
+{: .mt-1}
 
 (Panel Session)
 
-**Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
+### **Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
 
 ---
 
-### 12:30-2:00 PM
+## 12:30-2:00 PM
+{: .fw-300 .mb-1}
 
-**Lunch**
+### **Lunch**
+{: .mt-1}
 
 ---
 
-### 2:00-3:20 PM
+## 2:00-3:20 PM
+{: .fw-300 .mb-1}
 
-**The Human Side of Decentralization**
+## **The Human Side of Decentralization**
+{: .mt-1}
 
 (Paper Session)
 
-**Presenter:** ***Bex Hewett***
+### **Presenter:** ***Bex Hewett***
 {: .mb-1}
 
 *'Decentralization and High Employee Involvement: A Configurational Perspective'*
 
-**Presenter:** ***Mike Lee***
+### **Presenter:** ***Mike Lee***
 {: .mb-1}
 
 *'Is Decentralization Better for Everyone? Investigating Employee Characteristics that Drive Preferences for Decentralized Structures'*
 
-**Discussant:** ***Markus Reitzig***
+### **Discussant:** ***Markus Reitzig***
 
 ---
 
-### 3:20-3:40 PM
+## 3:20-3:40 PM
+{: .fw-300 .mb-1}
 
-**Coffee Break**
+## **Coffee Break**
+{: .mt-1}
 
 ---
 
-### 3:40-5:00 PM
+## 3:40-5:00 PM
+{: .fw-300 .mb-1}
 
-**Opportunities for Decentralization Research**
+## **Opportunities for Decentralization Research**
+{: .mt-1}
 
 (Special Session)
 
-**Presenter:** ***John Eklund***
+### **Presenter:** ***John Eklund***
 
 *'A New Organizational Structure Database: Examining Structure through Top Management Team Compositions'*
 
-**Presenter:** ***Ying-Ying Hsieh***
+### **Presenter:** ***Ying-Ying Hsieh***
 
 *'A Deeper Look at DAOs: Introducing the DREAM Project'*
 
-**Discussant:** ***Tobias Kretschmer***
+### **Discussant:** ***Tobias Kretschmer***
 
 ---
 
-### 5:00-6:00 PM
+## 5:00-6:00 PM
+{: .fw-300 .mb-1}
 
-**Decentralized Feedback: The Community as Your Sounding Board**
+## **Decentralized Feedback: The Community as Your Sounding Board**
+{: .mt-1}
 
-**MC:** ***Oliver Alexy***
+### **MC:** ***Oliver Alexy***
 
-**Pitch Presenters:** ***Xule Lin, Philipp Reineke, Charlie Williams***
-
----
-
-### 7:00 PM
-
-**Reception:** Central Terrace, Executive Campus
+### **Pitch Presenters:** ***Xule Lin, Philipp Reineke, Charlie Williams***
 
 ---
 
-## Tuesday, June 18
+## 7:00 PM
+{: .fw-300 .mb-1}
+
+## **Reception:** Central Terrace, Executive Campus
+{: .mt-1}
 
 ---
 
-### 8:30-9:00 AM
-
-**Breakfast & Registration**
+# Tuesday, June 18
 
 ---
 
-### 9:00-10:20 AM
+## 8:30-9:00 AM
+{: .fw-300 .mb-1}
 
-**Tradeoffs in Decentralization**
+## **Breakfast & Registration**
+{: .mt-1}
+
+---
+
+## 9:00-10:20 AM
+{: .fw-300 .mb-1}
+
+## **Tradeoffs in Decentralization**
+{: .mt-1}
 
 (Paper Session)
 
-**Presenter:** ***Helge Klapper***
+### **Presenter:** ***Helge Klapper***
 
 *'How to Limit the Negative Effects of Misalignment: The Case of Decision Structures in Decentralized Autonomous Organizations'*
 
-**Presenter:** ***Vivianna Fang He***
+### **Presenter:** ***Vivianna Fang He***
 
 *'Balancing Convergence and Deliberation in Decentralized Consensus Formation'*
 
-**Discussant:** ***Charlie Williams***
+### **Discussant:** ***Charlie Williams***
 
 ---
 
-### 10:20-10:40 AM
+## 10:20-10:40 AM
+{: .fw-300 .mb-1}
 
-**Coffee Break**
+## **Coffee Break**
+{: .mt-1}
 
 ---
 
-### 10:40-12:00 PM
+## 10:40-12:00 PM
+{: .fw-300 .mb-1}
 
-**Decentralized Design and Governance**
+## **Decentralized Design and Governance**
+{: .mt-1}
 
 (Paper Session)
 
-**Presenter:** ***Linus Dahlander***
+### **Presenter:** ***Linus Dahlander***
 
 *'Selection Regimes and Selection Errors'*
 
-**Presenter:** ***Gurneeta Vasudera Singh***
+### **Presenter:** ***Gurneeta Vasudera Singh***
 
 *'Governance of Data Resources and Market Valuation'*
 
-**Discussant:** ***Carliss Baldwin***
+##$ **Discussant:** ***Carliss Baldwin***
 
 ---
 
-### 12:00-1:30 PM
+## 12:00-1:30 PM
+{: .fw-300 .mb-1}
 
-**Lunch**
+## **Lunch**
+{: .mt-1}
 
 ---
 
-### 1:30-2:50 PM
+## 1:30-2:50 PM
+{: .fw-300 .mb-1}
 
-**Democratizing Organizations**
+## **Democratizing Organizations**
+{: .mt-1}
 
 (Paper Session)
 
-**Presenter:** ***Trevor Young-Hyman***
+### **Presenter:** ***Trevor Young-Hyman***
 
 *'Demanding but Committed: The Organizational Consequences of Broadening Stakeholder Governance'*
 
-**Presenter:** ***Felipe Massa***
+### **Presenter:** ***Felipe Massa***
 
 *'Fostering Dignity at Scale: Jaipur Rugs and the Reflexive Management of Artisanal Craftwork'*
 
-**Discussant:** ***Martin Kornberger***
+### **Discussant:** ***Martin Kornberger***
 
 ---
 
-### 2:50-3:10 PM
+## 2:50-3:10 PM
+{: .fw-300 .mb-1}
 
-**Coffee Break**
+## **Coffee Break**
+{: .mt-1}
 
 ---
 
-### 3:10-4:30 PM
+## 3:10-4:30 PM
+{: .fw-300 .mb-1}
 
-**Technology & Decentralization**
+## **Technology & Decentralization**
+{: .mt-1}
 
 (Panel Session)
 
-**Panelists:** ***Sonali Shah (lead), Paolo Leone, & Alex Murray***
+### **Panelists:** ***Sonali Shah (lead), Paolo Leone, & Alex Murray***
 
 ---
 
-### 4:30-5:50 PM
+## 4:30-5:50 PM
+{: .fw-300 .mb-1}
 
-**Decentralization for Good?**
+## **Decentralization for Good?**
+{: .mt-1}
 
 (Paper Session)
 
-**Presenter:** ***Katherine Chen***
+### **Presenter:** ***Katherine Chen***
 
 *'Expanding Model Cases: How Do Groups Develop Relational, Emergent, Transformative, and Change-Oriented Organizations (RETCOs)?'*
 
-**Presenter:** ***Paul Adler***
+### **Presenter:** ***Paul Adler***
 
 *'The Climate Crisis and the Democratic-Transformative State: New Directions for Management Research'*
 
-**Discussant:** ***Johanna Mair***
+### **Discussant:** ***Johanna Mair***
 
 ---
 
-### 5:50-6:10 PM
+## 5:50-6:10 PM
+{: .fw-300 .mb-1}
 
-**Reflection and Outlook**
+## **Reflection and Outlook**
+{: .mt-1}
 
 ---
 
-### 7:10-10:00 PM
+## 7:10-10:00 PM
+{: .fw-300 .mb-1}
 
-**Dinner:** [Restaurant Sauceria](https://www.sauceria.ch/)
+## **Dinner:** [Restaurant Sauceria](https://www.sauceria.ch/)
+{: .mt-1}
 
 ---
 
