@@ -37,16 +37,16 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ### 9:10-10:30 AM
 
 **Blockchains: Meaning & Functionality (Paper Session)**
-{: .float-right .pl-3}
+{: .text-right}
 
 **Presenter:** ***Semi Min***, *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
-{: .d-inline-block .pl-3}
+{: .d-inline-block .pl-6}
 
 **Presenter:** ***Brian Wu***, *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
-{: .d-block .pl-3}
+{: .d-block .pl-6}
 
 **Discussant:** ***Phanish Puranam***
-{: .d-block .pl-3}
+{: .d-block .pl-6}
 
 ---
 
