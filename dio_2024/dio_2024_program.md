@@ -57,10 +57,10 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-## 10:30-10:50 AM <br/>**Coffee Break**
+## 10:30-10:50 AM
 {: .fw-300 }
 
-### **Coffee Break**
+## **Coffee Break**
 {: .mt-1}
 
 ---
@@ -80,7 +80,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ## 12:30-2:00 PM
 {: .fw-300 .mb-1}
 
-### **Lunch**
+## **Lunch**
 {: .mt-1}
 
 ---
@@ -211,7 +211,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 *'Governance of Data Resources and Market Valuation'*
 
-##$ **Discussant:** ***Carliss Baldwin***
+### **Discussant:** ***Carliss Baldwin***
 
 ---
 
