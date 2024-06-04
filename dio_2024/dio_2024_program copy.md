@@ -5,8 +5,6 @@ parent: DiO 2024
 nav_order: 1
 ---
 
-{: .custom-page}
-
 
 # Decentralization in Organizations (DiO) Conference 2024 – Program Information
 
@@ -19,7 +17,7 @@ For the most up-to-date information about the program, please refer to the docum
 _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ## Monday, June 17
-
+{: .float-right}
 ---
 
 ### 8:00-9:00 AM
