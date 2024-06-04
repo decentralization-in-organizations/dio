@@ -38,11 +38,11 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ## 9:10-10:30 AM
 {: .fw-300 }
 
-### **Blockchains: Meaning & Functionality**
+## **Blockchains: Meaning & Functionality**
 
 (Paper Session)
 
-#### **Presenter:** ***Semi Min***
+### **Presenter:** ***Semi Min***
 
 *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
 
