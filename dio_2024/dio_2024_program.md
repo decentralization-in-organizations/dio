@@ -39,6 +39,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .fw-300 .mb-1}
 
 ## **Blockchains: Meaning & Functionality**
+{: .mt-1}
 
 (Paper Session)
 
