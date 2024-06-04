@@ -33,6 +33,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
 {: .float-right}
 
+<br/>
 ### 9:10-10:30 AM
 
 **Blockchains: Meaning & Functionality**
