@@ -9,7 +9,7 @@ nav_order: 1
 
 ![DiO 2024](dio_2024_photos/dio_2024_1.jpeg)
 
-For the most up-to-date information about the program, please refer to the document below. You can also [click here](https://docs.google.com/document/d/1epuN1_VkwrLF6CtmAsBKBFCSU3A-PrDifIXiyvE5uJY/edit?usp=sharing) to open the document in a new tab for easier viewing, downloading, or printing.
+For the most up-to-date information about the program, please refer to the document below. You can also [click here](https://docs.google.com/document/d/1epuN1_VkwrLF6CtmAsBKBFCSU3A-PrDifIXiyvE5uJY/edit?usp=sharing) to open the document in a new tab for downloading or printing.
 
 # DiO Conference Program 2024
 
