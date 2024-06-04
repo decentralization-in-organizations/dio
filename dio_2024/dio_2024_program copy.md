@@ -28,7 +28,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ### 9:00-9:10 AM
 
 **Welcome and Introduction**
-{: .float-right}
+{: .float-right .d-inline-block}
 
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
 
