@@ -42,13 +42,13 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 (Paper Session)
 
-**Presenter:** ***Semi Min***
-{: .mb-1}
+#### **Presenter:** ***Semi Min***
 
 *'Computational Text Analysis in the Study of the Evolution of the Meaning of Novel Technologies'*
 
 **Presenter:** ***Brian Wu***
 {: .mb-1}
+
 *'Blockchains: Fusing Extant Organizational Functionalities Under the CAP Tradeoff'*
 
 **Discussant:** ***Phanish Puranam***
@@ -87,10 +87,12 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 **Presenter:** ***Bex Hewett***
 {: .mb-1}
+
 *'Decentralization and High Employee Involvement: A Configurational Perspective'*
 
 **Presenter:** ***Mike Lee***
 {: .mb-1}
+
 *'Is Decentralization Better for Everyone? Investigating Employee Characteristics that Drive Preferences for Decentralized Structures'*
 
 **Discussant:** ***Markus Reitzig***
