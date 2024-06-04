@@ -31,7 +31,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .float-right .d-inline-block}
 
 **Organizers & President of University of St. Gallen:** ***Manuel Ammann***
-
+{: .d-inline-block}
 
 
 ### 9:10-10:30 AM
