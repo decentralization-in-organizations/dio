@@ -1,0 +1,27 @@
+days:
+  - name: Day 1
+    events:
+      - time: '9:00 AM to 10:00 AM' 
+        title: Registration
+        subtitle: Pick up your badge
+      - time: '10:00 AM to 11:00 AM'
+        title: Keynote
+        subtitle: Speaker Name
+        category: Keynote
+  - name: Day 2
+    events:
+      - time: '9:00 AM to 10:00 AM' 
+        title: Registration
+        subtitle: Pick up your badge
+      - time: '10:00 AM to 11:00 AM'
+        title: Keynote
+        subtitle: Speaker Name
+        category: Keynote
+
+legend:
+  title: 'Legend'
+  categories:
+    - name: Keynote
+      color: indigo-4
+    - name: Talk
+      color: purple-4
