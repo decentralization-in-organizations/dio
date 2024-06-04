@@ -72,8 +72,10 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 {: .d-inline-block }
 
 **Prospects for Platforms**
+{: .float-right .d-inline-block}
 
 (Panel Session)
+{: .d-inline-block }
 
 **Panelists:** ***Melissa Schilling (lead), Tammy Madsen, Joost Rietveld, & Danny Sokol***
 {: .d-inline-block }
