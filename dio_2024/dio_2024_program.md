@@ -56,7 +56,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-## 10:30-10:50 AM
+## 10:30-10:50 AM <br/>**Coffee Break**
 {: .fw-300 }
 
 ### **Coffee Break**
