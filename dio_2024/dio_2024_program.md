@@ -118,20 +118,20 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ## 3:40-5:00 PM
 {: .fw-300 .mb-1}
 
-## **Opportunities for Decentralization Research**
+## **Democratizing Organizations**
 {: .mt-1}
 
-(Special Session)
+(Paper Session)
 
-### **Presenter:** ***John Eklund***
+### **Presenter:** ***Trevor Young-Hyman***
 
-*'A New Organizational Structure Database: Examining Structure through Top Management Team Compositions'*
+*'Demanding but Committed: The Organizational Consequences of Broadening Stakeholder Governance'*
 
-### **Presenter:** ***Ying-Ying Hsieh***
+### **Presenter:** ***Felipe Massa***
 
-*'A Deeper Look at DAOs: Introducing the DREAM Project'*
+*'Fostering Dignity at Scale: Jaipur Rugs and the Reflexive Management of Artisanal Craftwork'*
 
-### **Discussant:** ***Tobias Kretschmer***
+### **Discussant:** ***Martin Kornberger***
 
 ---
 
@@ -226,20 +226,20 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 ## 1:30-2:50 PM
 {: .fw-300 .mb-1}
 
-## **Democratizing Organizations**
+## **Opportunities for Decentralization Research**
 {: .mt-1}
 
-(Paper Session)
+(Special Session)
 
-### **Presenter:** ***Trevor Young-Hyman***
+### **Presenter:** ***John Eklund***
 
-*'Demanding but Committed: The Organizational Consequences of Broadening Stakeholder Governance'*
+*'A New Organizational Structure Database: Examining Structure through Top Management Team Compositions'*
 
-### **Presenter:** ***Felipe Massa***
+### **Presenter:** ***Ying-Ying Hsieh***
 
-*'Fostering Dignity at Scale: Jaipur Rugs and the Reflexive Management of Artisanal Craftwork'*
+*'A Deeper Look at DAOs: Introducing the DREAM Project'*
 
-### **Discussant:** ***Martin Kornberger***
+### **Discussant:** ***Tobias Kretschmer***
 
 ---
 
