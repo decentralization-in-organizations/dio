@@ -257,7 +257,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ### **Presenter:** ***Alex Murray***
 
-*'Synthetic stakeholders: Combining acknowledged personhood and emergent technologies to achieve stakeholder salience'*
+*'Synthetic Stakeholders: Combining Acknowledged Personhood and Emergent Technologies to Achieve Stakeholder Salience'*
 
 ### **Joint Discussion:** ***Alexy Murray and Paolo Leone***
 
