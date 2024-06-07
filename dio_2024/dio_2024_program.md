@@ -243,7 +243,27 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-## 2:50-3:10 PM
+## 2:50-3:50 PM
+{: .fw-300 .mb-1}
+
+## **Aesthetics & Synthetics**
+{: .mt-1}
+
+(Paper Session)
+
+### **Presenter:** ***Paolo Leone***
+
+*'Work as Play: A Model of Aesthetics Control'*
+
+### **Presenter:** ***Alex Murray***
+
+*'Synthetic stakeholders: Combining acknowledged personhood and emergent technologies to achieve stakeholder salience'*
+
+### **Joint Discussion:** ***Alexy Murray and Paolo Leone***
+
+---
+
+## 3:50-04:10 PM
 {: .fw-300 .mb-1}
 
 ## **Coffee Break**
@@ -251,19 +271,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-## 3:10-4:30 PM
-{: .fw-300 .mb-1}
-
-## **Technology & Decentralization**
-{: .mt-1}
-
-(Panel Session)
-
-### **Panelists:** ***Sonali Shah (lead), Paolo Leone, & Alex Murray***
-
----
-
-## 4:30-5:50 PM
+## 4:10-5:30 PM
 {: .fw-300 .mb-1}
 
 ## **Decentralization for Good?**
@@ -283,7 +291,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ---
 
-## 5:50-6:10 PM
+## 5:30-6:00 PM
 {: .fw-300 .mb-1}
 
 ## **Reflection and Outlook**
