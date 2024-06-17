@@ -141,7 +141,7 @@ _All times displayed are Central European Summer Time (CEST, UTC +2)._
 
 ### **MC:** ***Oliver Alexy***
 
-### **Pitch Presenters:** ***Xule Lin, Philipp Reineke, Charlie Williams***
+### **Pitch Presenters:** ***Xule Lin, Philipp Reineke, Charlie Williams, Phanish Puranam***
 
 ---
 
