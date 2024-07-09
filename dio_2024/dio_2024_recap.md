@@ -13,4 +13,4 @@ nav_order: 5
 
 ## Photos from DiO 2024
 
-![DiO 2023](dio_2024_photos/dio_2024_group.jpg)
+![DiO 2024](dio_2024_photos/dio_2024_group.jpg)
