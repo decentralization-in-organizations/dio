@@ -292,7 +292,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## Organizers
 
 - [Vivianna Fang He](https://www.viviannafanghe.com/)
-  - Email: [viviannafang.he@unisg.ch](mailto:viviannafang.he@unisg.ch)
+  - Email: [vivianna.he@ucl.ac.uk](vivianna.he@ucl.ac.uk)
 - [Ying-Ying Hsieh](https://www.imperial.ac.uk/people/y.hsieh)
   - Email: [y.hsieh@imperial.ac.uk](mailto:y.hsieh@imperial.ac.uk)
 - [Mike Lee](https://www.michaelylee.co/bio)
