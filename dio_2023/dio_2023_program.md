@@ -2,7 +2,7 @@
 layout: default
 title: 2023 Program Information
 parent: DiO 2023
-nav_order: 3b
+nav_order: 1
 ---
 
 ![DiO 2023](dio_2023_photos/dio_2023_icbs.png)

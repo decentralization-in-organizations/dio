@@ -2,7 +2,7 @@
 layout: default
 title: 2023 Recap
 parent: DiO 2023
-nav_order: 3c
+nav_order: 2
 ---
 
 ![DiO 2023](dio_2023_photos/dio_2023_icbs.png)
