@@ -306,5 +306,3 @@ _All times displayed are Central European Time (CET, UTC +1)._
   - Email: [julian.jonathan.markus@wu.ac.at](mailto:julian.jonathan.markus@wu.ac.at)
 - [Giorgia Sampò](https://www.sdu.dk/en/forskning/forskningsenheder/samf/sod/simple-employee-list-sod/group-members/giorgia-sampo)
   - Email: [gisa@sam.sdu.dk](mailto:gisa@sam.sdu.dk)
-- [Magnus van Haaren](https://www.erim.eur.nl/people/magnus-van-haaren/)
-  - Email: [vanhaaren@rsm.nl](mailto:vanhaaren@rsm.nl)
