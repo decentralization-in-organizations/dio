@@ -8,6 +8,7 @@ nav_order: 3
 # Online Participation at DiO 2025
 
 Dear online attendees: Welcome to DiO 2025! 
+
 To foster engagement during live sessions, you will have the opportunity to submit **questions for speakers through chat**, and participate in live polls and other interactive initiatives.
 We also encourage you to connect with fellow participants in our specially designed **coffee chat spaces**, accessible between sessions to offer informal environments for discussion on key themes and debriefing "the previous session." 
 
