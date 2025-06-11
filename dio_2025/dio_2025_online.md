@@ -7,7 +7,7 @@ nav_order: 3
 
 # Online Participation at DiO 2025
 
-### Dear online participants: Welcome to DiO 2025! 
+## Dear online participants: Welcome to DiO 2025! 
 
 To foster engagement during live sessions, you will have the opportunity to submit **questions for speakers through chat**, and participate in live polls and other interactive initiatives.
 We also encourage you to connect with fellow participants in our specially designed **coffee chat spaces**, accessible between sessions to offer informal environments for discussion on key themes and debriefing "the previous session." 
@@ -18,7 +18,7 @@ The form will be active throughout the conference and will be checked regularly.
 
 We hope your virtual attendance will be productive and enjoyable!
 
-### Register to DiO 2025 - Online
+## Register to DiO 2025 - Online
 If you haven't already signed up, you can do so through the form below.
 
 <div style="position: relative; height: 100vh; overflow: hidden;">
