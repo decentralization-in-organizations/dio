@@ -306,3 +306,5 @@ _All times displayed are Central European Time (CET, UTC +1)._
   - Email: [julian.jonathan.markus@wu.ac.at](mailto:julian.jonathan.markus@wu.ac.at)
 - [Giorgia Sampò](https://www.sdu.dk/en/forskning/forskningsenheder/samf/sod/simple-employee-list-sod/group-members/giorgia-sampo)
   - Email: [gisa@sam.sdu.dk](mailto:gisa@sam.sdu.dk)
+- [Piyush Gulati](https://www.insead.edu/phd-student/piyush-gulati)
+  - Email: [piyush.gulati@insead.edu](piyush.gulati@insead.edu)
