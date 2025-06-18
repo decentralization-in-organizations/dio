@@ -245,7 +245,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 *'Structural Evolution of New Ventures: Large-scale Evidence from U.S. Employer-employee-matched Data'*
 
-### **Presenter:** ***Megan Larence***
+### **Presenter:** ***Megan Lawrence***
 
 *'‘Hierarchy Expansion in Young Firms: The Impact of Internal versus External Hiring on Performance'*
 
