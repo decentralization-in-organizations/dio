@@ -191,7 +191,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ### **Presenter:** ***Vivianna Fang He***
 
-*'Co-creation of Onnovation Controls'*
+*'Co-creation of Innovation Controls'*
 
 ### **Discussant:** ***Sonali Shah***
 
