@@ -21,7 +21,7 @@ search_enabled: true
 google_site_verification: tibqr3tgrkoGpfSJDNGZ1UBiDAR-AbFrtKzSAS9xQv0
 
 #sitemap
-plugins:
+gems:
   - jekyll-sitemap
   
 # External navigation links
