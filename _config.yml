@@ -19,6 +19,10 @@ search_enabled: true
 
 # Google console verification
 google_site_verification: tibqr3tgrkoGpfSJDNGZ1UBiDAR-AbFrtKzSAS9xQv0
+
+#sitemap
+plugins:
+  - jekyll-sitemap
   
 # External navigation links
 #nav_external_links:
