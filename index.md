@@ -3,7 +3,6 @@ title: Home
 layout: home
 nav_order: 1
 ---
-<meta name="google-site-verification" content="tibqr3tgrkoGpfSJDNGZ1UBiDAR-AbFrtKzSAS9xQv0" />
 
 <!-- # Decentralization in Organizations (DiO) -->
 
