@@ -23,8 +23,8 @@ plugins:
   - jekyll-google_search_console_verification_file
 
 google_search_console:
-  verification_file_code: tibqr3tgrkoGpfSJDNGZ1UBiDAR-AbFrtKzSAS9xQv0
-
+  verification_file_code: b70b802047bf7d50
+  
 # External navigation links
 #nav_external_links:
 #  - title: Just the Docs on GitHub
