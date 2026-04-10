@@ -41,15 +41,15 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Session)
 
-### **Presenter:** ***Dan Levinthal***
+### **Presenter:** ***Dan Levinthal, Wharton***
 
 *'Decentralized adaptation in market and organizations'*
 
-### **Presenter:** ***Carliss Baldwin***
+### **Presenter:** ***Carliss Baldwin, Harvard***
 
 *'Technological paradigms and decentralization'*
 
-### **Moderator:** ***Phanish Puranam***
+### **Moderator:** ***Phanish Puranam, Insead***
 
 ---
 
@@ -69,15 +69,15 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Oliver Baumann***
+### **Presenter:** ***Oliver Baumann, SDU***
 
 *'Platform Bypass: Informal Collaboration and Ecosystem Adaptation in Crisis Times'*
 
-### **Presenter:** ***JP Vergne***
+### **Presenter:** ***JP Vergne, UCL***
 
 *'Authority Dispersion on Blockchain Platforms'*
 
-### **Discussant:** ***John Eklund***
+### **Discussant:** ***John Eklund, USC Marshall***
 
 ---
 
@@ -97,17 +97,17 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Bex Hewett***
+### **Presenter:** ***Bex Hewett, Rotterdam***
 {: .mb-1}
 
 *'Variations in Participation in Self-Managing Organizations'*
 
-### **Presenter:** ***Arvind Karunakaran***
+### **Presenter:** ***Arvind Karunakaran, Stanford***
 {: .mb-1}
 
 *'Conflicts among symmetric occupational groups at Tech Co'*
 
-### **Discussant:** ***Felipe Massa***
+### **Discussant:** ***Felipe Massa, Vermont***
 
 ---
 
@@ -122,10 +122,10 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## 3:50-4:15 PM
 {: .fw-300 .mb-1}
 
-## **Dreaming about DAOs **
+## **Dreaming about DAOs**
 {: .mt-1}
 
-### **Presenter:** ***Ying-Ying Hsieh & Theo Beutel***
+### **Presenter:** ***Ying-Ying Hsieh, Imperial & Theo Beutel, Ethereum***
 
 ---
 
@@ -137,15 +137,15 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Chengwei Liu***
+### **Presenter:** ***Chengwei Liu, Imperial***
 
 *'From population diversity to target diversity'*
 
-### **Presenter:** ***Harsh Ketkar ***
+### **Presenter:** ***Harsh Ketkar, McCombs***
 
 *'Riding the jagged frontier: Coordination and robustness in human-AI organizations'*
 
-### **Discussant:** ***Tobias Kretschmer***
+### **Discussant:** ***Tobias Kretschmer, Imperial***
 
 ---
 
@@ -185,15 +185,15 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Markus Reitzig***
+### **Presenter:** ***Markus Reitzig, Vienna***
 
 *'Flat structures and human capital retention’'*
 
-### **Presenter:** ***Piyush Gulati***
+### **Presenter:** ***Piyush Gulati, UCL***
 
 *'Mitigating disruption: Hiring for social skills and post-acquisition performance'*
 
-### **Discussant:** ***Arianna Marchetti***
+### **Discussant:** ***Arianna Marchetti, LBS***
 
 ---
 
@@ -213,15 +213,15 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Shun Yiu***
+### **Presenter:** ***Shun Yiu, Kelley***
 
 *'Appropriability in platform governance: How decentralization of decision rights erodes participation'*
 
-### **Presenter:** ***Matteo Devigili***
+### **Presenter:** ***Matteo Devigili, Insead***
 
 *'Control-OSS: controlling Linux'*
 
-### **Discussant:** ***Vivianna Fang He***
+### **Discussant:** ***Vivianna Fang He, UCL***
 
 ---
 
@@ -241,27 +241,28 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 Short pitches on new ideas/papers
 
-### **Presenter:** ***Sunny Lee***
-### **Presenter:** ***Harsh Ketkar***
-### **Presenter:** ***Arianna Marchetti***
-### **Presenter:** ***Marylene Gagne***
-### **Presenter:** ***Frank Martela***
-### **Facilitator**: ***Michael Lee***
+### **Presenter:** ***Sunny Lee, UCL***
+### **Presenter:** ***Arianna Marchetti, LBS***
+### **Presenter:** ***Marylene Gagne, Curtin***
+### **Presenter:** ***Frank Martela, Aalto***
+### **Facilitator**: ***Michael Lee, Insead***
 
 ---
 
-## 3:00-05:00 PM
+## 3:00-4:30 PM
 {: .fw-300 .mb-1}
 
 ## **Living Case Exploration: Scaling Decentralized Organizing**
 {: .mt-1}
+
+### **Moderators:** ***Phanish Puranam, Michael Lee, Vivianna He, Ying-Ying Hsieh***
 
 ---
 
 ## 4:30-5:00 PM
 {: .fw-300 .mb-1}
 
-## **Living Case Exploration: Scaling Decentralized Organizing**
+## **Closing Session**
 {: .mt-1}
 
 ### **Moderators:** ***Phanish Puranam, Michael Lee, Vivianna He, Ying-Ying Hsieh***
