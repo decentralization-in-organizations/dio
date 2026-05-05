@@ -43,7 +43,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ### **Presenter:** ***Dan Levinthal, Wharton***
 
-*'Decentralized adaptation in market and organizations'*
+*'Decentralized adaptation in markets and organizations'*
 
 ### **Presenter:** ***Carliss Baldwin, Harvard***
 
