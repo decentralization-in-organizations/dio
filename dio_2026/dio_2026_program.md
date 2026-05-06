@@ -5,9 +5,9 @@ parent: DiO 2026
 nav_order: 1
 ---
 
-# Decentralization in Organizations (DiO) Conference 2024 – Program Information
+# Decentralization in Organizations (DiO) Conference 2026 – Program Information
 
-![DiO 2025](dio_2026_photos/dio_2026_2.jpg)
+![DiO 2026](dio_2026_photos/dio_2026_2.jpg)
 
 For the most up-to-date information about the program, please refer to the document below. You can also [click here](https://docs.google.com/document/d/1git7oJHcIR3Fme-hVGXVwYbAIp_508uSYga8P9Xnr8E/edit?tab=t.0) to open the document in a new tab for downloading or printing.
 
