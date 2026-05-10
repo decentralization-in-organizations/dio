@@ -193,7 +193,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 *'Mitigating disruption: Hiring for social skills and post-acquisition performance'*
 
-### **Discussant:** ***Arianna Marchetti, LBS***
+### **Discussant:** ***Arianna Marchetti, SMU***
 
 ---
 
