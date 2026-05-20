@@ -39,7 +39,6 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## **Framing the Frontier: Rethinking Decentralization**
 {: .mt-1}
 
-(Session)
 
 ### **Presenter:** ***Dan Levinthal, Wharton***
 
@@ -64,7 +63,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## 10:35-12:05 PM
 {: .fw-300 }
 
-## **Control & Governance in Digital Decentralized Organizations**
+## **Control & Governance in Digital Organizations**
 {: .mt-1}
 
 (Paper Session)
@@ -92,7 +91,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## 2:00-3:30 PM
 {: .fw-300 .mb-1}
 
-## **Decentralization, Participation and Conflict in Decentralized Organizations**
+## **Participation and Conflict in Decentralized Organizations**
 {: .mt-1}
 
 (Paper Session)
@@ -122,7 +121,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## 3:50-4:15 PM
 {: .fw-300 .mb-1}
 
-## **Dreaming about DAOs**
+## **DREAM about DAOs**
 {: .mt-1}
 
 ### **Presenter:** ***Ying-Ying Hsieh, Imperial & Theo Beutel, Ethereum***
@@ -132,7 +131,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## 4:15-5:45 PM
 {: .fw-300 .mb-1}
 
-## **Decentralization & Organizational Learning**
+## **Decentralization & organizational Learning**
 {: .mt-1}
 
 (Paper Session)
