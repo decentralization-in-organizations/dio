@@ -216,9 +216,9 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 *'Appropriability in platform governance: How decentralization of decision rights erodes participation'*
 
-### **Presenter:** ***Matteo Devigili, Insead***
+### **Presenter:** ***Matteo Devigli, Insead***
 
-*'Control-OSS: controlling Linux'*
+*'Penguins Don't Talk, But They Huddle: How Organizational Plans Redistribute Feedback'*
 
 ### **Discussant:** ***Vivianna Fang He, UCL***
 
