@@ -31,7 +31,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 ## **Welcome and Introduction**
 {: .mt-1}
 
-## ***Lily Fang, Dean of Research and Innovation, INSEAD***
+### ***Lily Fang, Dean of Research and Innovation, INSEAD***
 {: .mt-1}
 
 ---
