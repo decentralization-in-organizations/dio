@@ -255,20 +255,10 @@ Short pitches on new ideas/papers
 
 ---
 
-## 3:00-4:30 PM
+## 3:00-5:00 PM
 {: .fw-300 .mb-1}
 
 ## **Living Case Exploration: Scaling Decentralized Organizing**
-{: .mt-1}
-
-### **Moderators:** ***Phanish Puranam, Michael Lee, Vivianna He, Ying-Ying Hsieh***
-
----
-
-## 4:30-5:00 PM
-{: .fw-300 .mb-1}
-
-## **Closing Session**
 {: .mt-1}
 
 ### **Moderators:** ***Phanish Puranam, Michael Lee, Vivianna He, Ying-Ying Hsieh***
