@@ -25,18 +25,22 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ---
 
-## 8:30-8:45 AM
+## 8:30-9:00 AM
 {: .fw-300 }
 
 ## **Welcome and Introduction**
 {: .mt-1}
 
+
 ### ***Lily Fang, Dean of Research and Innovation, INSEAD***
+
+### ***Mike Lee and Phanish Puranam (hosts of DiO2026)***
+
 {: .mt-1}
 
 ---
 
-## 8:45-10:15 AM
+## 9:00-10:15 AM
 {: .fw-300 .mb-1}
 
 ## **Framing the Frontier: Rethinking Decentralization**
