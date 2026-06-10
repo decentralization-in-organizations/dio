@@ -36,8 +36,6 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ### ***Mike Lee and Phanish Puranam (hosts of DiO2026)***
 
-{: .mt-1}
-
 ---
 
 ## 9:00-10:15 AM
