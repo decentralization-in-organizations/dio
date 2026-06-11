@@ -34,7 +34,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ### ***Lily Fang, Dean of Research and Innovation, INSEAD***
 
-### ***Mike Lee and Phanish Puranam (hosts of DiO2026)***
+### ***Michael Lee and Phanish Puranam (hosts of DiO2026)***
 
 ---
 
