@@ -189,7 +189,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Mike Lee, INSEAD***
+### **Presenter:** ***Michael Lee, INSEAD***
 
 *'TBD’'*
 
