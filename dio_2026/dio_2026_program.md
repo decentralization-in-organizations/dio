@@ -189,9 +189,9 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 (Paper Session)
 
-### **Presenter:** ***Markus Reitzig, Vienna***
+### **Presenter:** ***Mike Lee, INSEAD***
 
-*'Flat structures and human capital retention’'*
+*'TBD’'*
 
 ### **Presenter:** ***Piyush Gulati, UCL***
 
