@@ -191,7 +191,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ### **Presenter:** ***Michael Lee, INSEAD***
 
-*'TBD’'*
+*'How much Decentralization is too much? Worker preferences across degrees of Decentralization'*
 
 ### **Presenter:** ***Piyush Gulati, UCL***
 
