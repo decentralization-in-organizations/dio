@@ -149,7 +149,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 *'Riding the jagged frontier: Coordination and robustness in human-AI organizations'*
 
-### **Discussant:** ***Tobias Kretschmer, Imperial***
+### **Discussant:** ***Oliver Baumann, SDU***
 
 ---
 
