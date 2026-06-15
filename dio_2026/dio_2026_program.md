@@ -75,7 +75,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 
 ### **Presenter:** ***Oliver Baumann, SDU***
 
-*'Platform Bypass: Informal Collaboration and Ecosystem Adaptation in Crisis Times'*
+*'Decentralization without Equalization: Platform Bypass in the Danish News Ecosystem'*
 
 ### **Presenter:** ***JP Vergne, UCL***
 
