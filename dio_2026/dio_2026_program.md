@@ -246,7 +246,7 @@ _All times displayed are Central European Time (CET, UTC +1)._
 Short pitches on new ideas/papers
 
 ### **Presenter:** ***Sunny Lee, UCL***
-### **Presenter:** ***Arianna Marchetti, LBS***
+### **Presenter:** ***Arianna Marchetti, SMU***
 ### **Presenter:** ***Marylene Gagne, Curtin***
 ### **Presenter:** ***Frank Martela, Aalto***
 ### **Facilitator**: ***Michael Lee, Insead***
